@@ -20,7 +20,7 @@ export default createGlobalStyle`
         text-rendering: optimizeLegibility !important;
     }
     body, input, button, small, span, h1, label {
-        font-family: 'Roboto' sans-serif;
+        font-family: 'Roboto', sans-serif;
     }
     a {
         text-decoration: none;
